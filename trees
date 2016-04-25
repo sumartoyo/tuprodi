@@ -114,27 +114,40 @@ QS 'L_y' { "y-*" }
 
 a[2]
 {
-   0              'R_C-Front'      -1     "ST_a_2_3" 
-  -1           'L_Front-Stop'  "ST_a_2_1"  "ST_a_2_2" 
+   0           'L_Front-Stop'      -1     "ST_a_2_4" 
+  -1          'L_NonAnterior'      -2     "ST_a_2_3" 
+  -2          'L_NonBoundary'  "ST_a_2_1"  "ST_a_2_2" 
 }
 
 l[2]
-   "ST_l_2_1"
+{
+   0          'R_NonBoundary'  "ST_l_2_1"  "ST_l_2_2" 
+}
 
 p[2]
    "ST_p_2_1"
 
 r[2]
-   "ST_r_2_1"
+{
+   0                 'L_Stop'  "ST_r_2_1"  "ST_r_2_2" 
+}
 
 o[2]
-   "ST_o_2_1"
+{
+   0           'R_UnStrident'  "ST_o_2_1"  "ST_o_2_2" 
+}
 
 s[2]
-   "ST_s_2_1"
+{
+   0          'L_NonBoundary'  "ST_s_2_1"  "ST_s_2_2" 
+}
 
 i[2]
-   "ST_i_2_1"
+{
+   0             'R_Syllabic'      -1     "ST_i_2_4" 
+  -1          'R_Voiced-Cons'  "ST_i_2_1"      -2    
+  -2            'L_Fricative'  "ST_i_2_2"  "ST_i_2_3" 
+}
 
 k[2]
    "ST_k_2_1"
@@ -148,10 +161,14 @@ d[2]
 }
 
 e[2]
-   "ST_e_2_1"
+{
+   0           'L_Continuent'  "ST_e_2_1"  "ST_e_2_2" 
+}
 
 n[2]
-   "ST_n_2_1"
+{
+   0          'R_NonBoundary'  "ST_n_2_1"  "ST_n_2_2" 
+}
 
 t[2]
    "ST_t_2_1"
@@ -185,31 +202,44 @@ sy[2]
 
 a[3]
 {
-   0                    'L_k'      -1     "ST_a_3_3" 
-  -1           'L_UnStrident'  "ST_a_3_2"      -2    
-  -2          'R_UnFortLenis'  "ST_a_3_1"  "ST_a_3_2" 
+   0               'L_Fortis'  "ST_a_3_1"  "ST_a_3_2" 
 }
 
 l[3]
-   "ST_l_3_1"
+{
+   0                 'R_Stop'  "ST_l_3_1"  "ST_l_3_2" 
+}
 
 p[3]
    "ST_p_3_1"
 
 r[3]
-   "ST_r_3_1"
+{
+   0              'L_C-Front'  "ST_r_3_1"  "ST_r_3_2" 
+}
 
 o[3]
-   "ST_o_3_1"
+{
+   0            'R_C-Central'  "ST_o_3_1"  "ST_o_3_2" 
+}
 
 s[3]
-   "ST_s_3_1"
+{
+   0                 'R_Stop'      -1     "ST_s_3_3" 
+  -1          'L_NonBoundary'  "ST_s_3_1"  "ST_s_3_2" 
+}
 
 i[3]
-   "ST_i_3_1"
+{
+   0               'L_Fortis'      -1     "ST_i_3_4" 
+  -1             'R_Syllabic'      -2     "ST_i_3_3" 
+  -2           'R_NonCoronal'  "ST_i_3_1"  "ST_i_3_2" 
+}
 
 k[3]
-   "ST_k_3_1"
+{
+   0          'L_NonBoundary'  "ST_k_3_1"  "ST_k_3_2" 
+}
 
 m[3]
    "ST_m_3_1"
@@ -220,7 +250,9 @@ d[3]
 }
 
 e[3]
-   "ST_e_3_1"
+{
+   0                'L_Nasal'  "ST_e_3_1"  "ST_e_3_2" 
+}
 
 n[3]
    "ST_n_3_1"
@@ -241,7 +273,9 @@ j[3]
    "ST_j_3_1"
 
 u[3]
-   "ST_u_3_1"
+{
+   0                 'R_Stop'  "ST_u_3_1"  "ST_u_3_2" 
+}
 
 w[3]
    "ST_w_3_1"
@@ -257,23 +291,32 @@ sy[3]
 
 a[4]
 {
-   0            'L_Back-Stop'      -1     "ST_a_4_4" 
-  -1                'R_Lenis'      -2     "ST_a_4_3" 
-  -2          'R_UnFortLenis'      -3     "ST_a_4_2" 
-  -3            'L_C-Central'  "ST_a_4_1"  "ST_a_4_2" 
+   0                    'L_k'      -1     "ST_a_4_5" 
+  -1              'R_C-Front'      -3         -2    
+  -2          'L_NonBoundary'  "ST_a_4_3"  "ST_a_4_4" 
+  -3                 'L_Stop'  "ST_a_4_1"  "ST_a_4_2" 
 }
 
 l[4]
-   "ST_l_4_1"
+{
+   0                 'R_Stop'  "ST_l_4_1"  "ST_l_4_2" 
+}
 
 p[4]
-   "ST_p_4_1"
+{
+   0               'R_Liquid'  "ST_p_4_1"  "ST_p_4_2" 
+}
 
 r[4]
-   "ST_r_4_1"
+{
+   0          'R_NonBoundary'  "ST_r_4_1"  "ST_r_4_2" 
+}
 
 o[4]
-   "ST_o_4_1"
+{
+   0            'R_C-Central'      -1     "ST_o_4_3" 
+  -1          'R_NonBoundary'  "ST_o_4_1"  "ST_o_4_2" 
+}
 
 s[4]
 {
@@ -282,7 +325,9 @@ s[4]
 
 i[4]
 {
-   0           'R_UnStrident'  "ST_i_4_1"  "ST_i_4_2" 
+   0          'L_Voiced-Cons'      -1         -2    
+  -1                'R_Nasal'  "ST_i_4_1"  "ST_i_4_2" 
+  -2              'R_C-Front'  "ST_i_4_2"  "ST_i_4_3" 
 }
 
 k[4]
@@ -292,13 +337,19 @@ m[4]
    "ST_m_4_1"
 
 d[4]
-   "ST_d_4_1"
+{
+   0          'L_NonBoundary'  "ST_d_4_1"  "ST_d_4_2" 
+}
 
 e[4]
-   "ST_e_4_1"
+{
+   0                 'R_Stop'  "ST_e_4_1"  "ST_e_4_2" 
+}
 
 n[4]
-   "ST_n_4_1"
+{
+   0          'R_NonBoundary'  "ST_n_4_1"  "ST_n_4_2" 
+}
 
 t[4]
    "ST_t_4_1"
@@ -316,7 +367,9 @@ j[4]
    "ST_j_4_1"
 
 u[4]
-   "ST_u_4_1"
+{
+   0             'L_Anterior'  "ST_u_4_1"  "ST_u_4_2" 
+}
 
 w[4]
    "ST_w_4_1"

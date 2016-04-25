@@ -17,149 +17,292 @@ Read 23 physical / 23 logical HMMs
 Label file will be used to align each file
 Aligning File: mfc/dimas/r01.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [364 frames] -55.6675 [Ac=-20263.0 LM=0.0] (Act=7.8)
+SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [364 frames] -57.8470 [Ac=-21056.3 LM=0.0] (Act=8.7)
 Aligning File: mfc/dimas/r02.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [380 frames] -57.5230 [Ac=-21858.7 LM=0.0] (Act=6.5)
+SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [380 frames] -60.5228 [Ac=-22998.7 LM=0.0] (Act=7.4)
 Aligning File: mfc/dimas/r03.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [364 frames] -55.5666 [Ac=-20226.3 LM=0.0] (Act=7.3)
+SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [364 frames] -60.0001 [Ac=-21840.0 LM=0.0] (Act=8.9)
 Aligning File: mfc/dimas/r04.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [339 frames] -61.2668 [Ac=-20769.4 LM=0.0] (Act=6.1)
+SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [339 frames] -64.4298 [Ac=-21841.7 LM=0.0] (Act=9.6)
 Aligning File: mfc/dimas/r05.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [331 frames] -59.7925 [Ac=-19791.3 LM=0.0] (Act=9.6)
+SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [331 frames] -62.8431 [Ac=-20801.1 LM=0.0] (Act=10.5)
 Aligning File: mfc/dimas/r06.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA RUANG DEKAN SENT-END  ==  [347 frames] -57.1896 [Ac=-19844.8 LM=0.0] (Act=8.5)
+SENT-END DIMANA RUANG DEKAN SENT-END  ==  [347 frames] -59.9752 [Ac=-20811.4 LM=0.0] (Act=8.6)
 Aligning File: mfc/dimas/r07.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA LAB GAIB SENT-END  ==  [372 frames] -52.5709 [Ac=-19556.4 LM=0.0] (Act=7.1)
+SENT-END DIMANA LAB GAIB SENT-END  ==  [372 frames] -57.4049 [Ac=-21354.6 LM=0.0] (Act=7.0)
 Aligning File: mfc/dimas/r08.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA LAB SISTER SENT-END  ==  [356 frames] -57.3023 [Ac=-20399.6 LM=0.0] (Act=6.4)
+SENT-END DIMANA LAB SISTER SENT-END  ==  [356 frames] -59.9472 [Ac=-21341.2 LM=0.0] (Act=6.8)
 Aligning File: mfc/dimas/r09.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [396 frames] -56.5265 [Ac=-22384.5 LM=0.0] (Act=5.6)
+SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [396 frames] -58.5297 [Ac=-23177.8 LM=0.0] (Act=5.9)
 Aligning File: mfc/dimas/r10.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [421 frames] -56.4257 [Ac=-23755.2 LM=0.0] (Act=6.1)
+SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [421 frames] -59.3927 [Ac=-25004.3 LM=0.0] (Act=6.4)
 Aligning File: mfc/dimas/r11.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [421 frames] -60.8483 [Ac=-25617.1 LM=0.0] (Act=7.3)
+SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [421 frames] -62.5488 [Ac=-26333.0 LM=0.0] (Act=6.9)
 Aligning File: mfc/dimas/r12.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [445 frames] -55.2493 [Ac=-24585.9 LM=0.0] (Act=6.0)
+SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [445 frames] -57.5155 [Ac=-25594.4 LM=0.0] (Act=6.1)
 Aligning File: mfc/dimas/r13.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA EMAIL KAPRODI SENT-END  ==  [421 frames] -52.3844 [Ac=-22053.8 LM=0.0] (Act=6.8)
+SENT-END APA EMAIL KAPRODI SENT-END  ==  [421 frames] -55.9086 [Ac=-23537.5 LM=0.0] (Act=8.4)
 Aligning File: mfc/dimas/r14.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA EMAIL DEKAN SENT-END  ==  [396 frames] -55.7540 [Ac=-22078.6 LM=0.0] (Act=7.0)
+SENT-END APA EMAIL DEKAN SENT-END  ==  [396 frames] -57.8442 [Ac=-22906.3 LM=0.0] (Act=8.1)
 Aligning File: mfc/dimas/r15.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA SYARAT SEMINAR SENT-END  ==  [396 frames] -54.6955 [Ac=-21659.4 LM=0.0] (Act=7.5)
+SENT-END APA SYARAT SEMINAR SENT-END  ==  [396 frames] -57.7199 [Ac=-22857.1 LM=0.0] (Act=8.5)
 Aligning File: mfc/dimas/r16.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA SYARAT WISUDA SENT-END  ==  [445 frames] -53.3440 [Ac=-23738.1 LM=0.0] (Act=7.5)
+SENT-END APA SYARAT WISUDA SENT-END  ==  [445 frames] -56.1557 [Ac=-24989.3 LM=0.0] (Act=8.3)
 Aligning File: mfc/dimas/r17.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [429 frames] -54.0861 [Ac=-23202.9 LM=0.0] (Act=6.7)
+SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [429 frames] -57.3272 [Ac=-24593.4 LM=0.0] (Act=8.3)
 Aligning File: mfc/dimas/r18.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [396 frames] -55.5848 [Ac=-22011.6 LM=0.0] (Act=5.8)
+SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [396 frames] -59.4969 [Ac=-23560.8 LM=0.0] (Act=7.7)
 Aligning File: mfc/dimas/r19.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [396 frames] -55.1283 [Ac=-21830.8 LM=0.0] (Act=6.0)
+SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [396 frames] -58.0344 [Ac=-22981.6 LM=0.0] (Act=8.5)
 Aligning File: mfc/dimas/r20.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [404 frames] -57.5807 [Ac=-23262.6 LM=0.0] (Act=6.1)
+SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [404 frames] -60.5221 [Ac=-24450.9 LM=0.0] (Act=8.6)
 Aligning File: mfc/dimas/r21.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [412 frames] -55.8640 [Ac=-23016.0 LM=0.0] (Act=8.6)
+SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [412 frames] -58.1330 [Ac=-23950.8 LM=0.0] (Act=8.1)
 Aligning File: mfc/dimas/r22.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA RUANG DEKAN SENT-END  ==  [445 frames] -54.3862 [Ac=-24201.9 LM=0.0] (Act=7.5)
+SENT-END DIMANA RUANG DEKAN SENT-END  ==  [445 frames] -56.2912 [Ac=-25049.6 LM=0.0] (Act=7.8)
 Aligning File: mfc/dimas/r23.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA LAB GAIB SENT-END  ==  [388 frames] -53.6791 [Ac=-20827.5 LM=0.0] (Act=9.0)
+SENT-END DIMANA LAB GAIB SENT-END  ==  [388 frames] -57.1392 [Ac=-22170.0 LM=0.0] (Act=8.3)
 Aligning File: mfc/dimas/r24.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA LAB SISTER SENT-END  ==  [396 frames] -57.1942 [Ac=-22648.9 LM=0.0] (Act=6.1)
+SENT-END DIMANA LAB SISTER SENT-END  ==  [396 frames] -59.9015 [Ac=-23721.0 LM=0.0] (Act=7.4)
 Aligning File: mfc/dimas/r25.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [445 frames] -54.4471 [Ac=-24229.0 LM=0.0] (Act=5.8)
+SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [445 frames] -56.6450 [Ac=-25207.0 LM=0.0] (Act=6.1)
 Aligning File: mfc/dimas/r26.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [469 frames] -56.4854 [Ac=-26491.6 LM=0.0] (Act=6.6)
+SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [469 frames] -58.9600 [Ac=-27652.3 LM=0.0] (Act=6.2)
 Aligning File: mfc/dimas/r27.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-No tokens survived to final node of network at beam 250.0
-SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [437 frames] -60.2606 [Ac=-26333.9 LM=0.0] (Act=10.0)
+SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [437 frames] -61.4230 [Ac=-26841.9 LM=0.0] (Act=6.3)
 Aligning File: mfc/dimas/r28.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [494 frames] -56.8799 [Ac=-28098.7 LM=0.0] (Act=6.5)
+SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [494 frames] -59.2435 [Ac=-29266.3 LM=0.0] (Act=6.3)
 Aligning File: mfc/dimas/r29.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA EMAIL KAPRODI SENT-END  ==  [437 frames] -54.7266 [Ac=-23915.5 LM=0.0] (Act=7.5)
+SENT-END APA EMAIL KAPRODI SENT-END  ==  [437 frames] -57.3078 [Ac=-25043.5 LM=0.0] (Act=8.5)
 Aligning File: mfc/dimas/r30.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA EMAIL DEKAN SENT-END  ==  [437 frames] -56.0365 [Ac=-24488.0 LM=0.0] (Act=9.1)
+SENT-END APA EMAIL DEKAN SENT-END  ==  [437 frames] -58.1553 [Ac=-25413.9 LM=0.0] (Act=9.4)
 Aligning File: mfc/dimas/r31.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA SYARAT SEMINAR SENT-END  ==  [380 frames] -56.7938 [Ac=-21581.6 LM=0.0] (Act=7.6)
+SENT-END APA SYARAT SEMINAR SENT-END  ==  [380 frames] -58.8455 [Ac=-22361.3 LM=0.0] (Act=9.1)
 Aligning File: mfc/dimas/r32.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA SYARAT WISUDA SENT-END  ==  [356 frames] -55.9806 [Ac=-19929.1 LM=0.0] (Act=8.0)
+SENT-END APA SYARAT WISUDA SENT-END  ==  [356 frames] -58.4647 [Ac=-20813.4 LM=0.0] (Act=8.4)
 Aligning File: mfc/dimas/r33.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [404 frames] -55.8541 [Ac=-22565.0 LM=0.0] (Act=7.3)
+SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [404 frames] -58.3292 [Ac=-23565.0 LM=0.0] (Act=8.1)
 Aligning File: mfc/dimas/r34.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [380 frames] -57.5388 [Ac=-21864.7 LM=0.0] (Act=5.8)
+SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [380 frames] -60.5554 [Ac=-23011.1 LM=0.0] (Act=7.3)
 Aligning File: mfc/dimas/r35.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [388 frames] -56.9179 [Ac=-22084.2 LM=0.0] (Act=6.0)
+SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [388 frames] -58.8362 [Ac=-22828.5 LM=0.0] (Act=8.1)
 Aligning File: mfc/dimas/r36.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [388 frames] -58.0465 [Ac=-22522.0 LM=0.0] (Act=6.4)
+SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [388 frames] -60.7291 [Ac=-23562.9 LM=0.0] (Act=8.5)
 Aligning File: mfc/dimas/r37.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [396 frames] -55.6755 [Ac=-22047.5 LM=0.0] (Act=8.7)
+SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [396 frames] -58.3685 [Ac=-23113.9 LM=0.0] (Act=9.8)
 Aligning File: mfc/dimas/r38.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA RUANG DEKAN SENT-END  ==  [412 frames] -58.1297 [Ac=-23949.4 LM=0.0] (Act=7.6)
+SENT-END DIMANA RUANG DEKAN SENT-END  ==  [412 frames] -60.8936 [Ac=-25088.2 LM=0.0] (Act=11.1)
 Aligning File: mfc/dimas/r39.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA LAB GAIB SENT-END  ==  [404 frames] -62.6110 [Ac=-25294.9 LM=0.0] (Act=5.7)
+SENT-END DIMANA LAB GAIB SENT-END  ==  [404 frames] -57.6887 [Ac=-23306.2 LM=0.0] (Act=9.8)
 Aligning File: mfc/dimas/r40.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DIMANA LAB SISTER SENT-END  ==  [412 frames] -54.7020 [Ac=-22537.2 LM=0.0] (Act=7.1)
+SENT-END DIMANA LAB SISTER SENT-END  ==  [412 frames] -57.2440 [Ac=-23584.5 LM=0.0] (Act=7.7)
 Aligning File: mfc/dimas/r41.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [412 frames] -55.7014 [Ac=-22949.0 LM=0.0] (Act=5.7)
+SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [412 frames] -57.5266 [Ac=-23701.0 LM=0.0] (Act=6.0)
 Aligning File: mfc/dimas/r42.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [412 frames] -58.2197 [Ac=-23986.5 LM=0.0] (Act=7.3)
+SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [412 frames] -60.5377 [Ac=-24941.5 LM=0.0] (Act=6.9)
 Aligning File: mfc/dimas/r43.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [494 frames] -57.5497 [Ac=-28429.6 LM=0.0] (Act=8.2)
+SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [494 frames] -58.5139 [Ac=-28905.9 LM=0.0] (Act=6.8)
 Aligning File: mfc/dimas/r44.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [461 frames] -56.1545 [Ac=-25887.2 LM=0.0] (Act=6.3)
+SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [461 frames] -57.9415 [Ac=-26711.0 LM=0.0] (Act=6.7)
 Aligning File: mfc/dimas/r45.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA EMAIL KAPRODI SENT-END  ==  [429 frames] -56.4554 [Ac=-24219.4 LM=0.0] (Act=8.5)
+SENT-END APA EMAIL KAPRODI SENT-END  ==  [429 frames] -58.6419 [Ac=-25157.4 LM=0.0] (Act=9.2)
 Aligning File: mfc/dimas/r46.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA EMAIL DEKAN SENT-END  ==  [453 frames] -55.2059 [Ac=-25008.3 LM=0.0] (Act=8.1)
+SENT-END APA EMAIL DEKAN SENT-END  ==  [453 frames] -56.9904 [Ac=-25816.6 LM=0.0] (Act=8.6)
 Aligning File: mfc/dimas/r47.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA SYARAT SEMINAR SENT-END  ==  [421 frames] -53.1104 [Ac=-22359.5 LM=0.0] (Act=8.6)
+SENT-END APA SYARAT SEMINAR SENT-END  ==  [421 frames] -55.9047 [Ac=-23535.9 LM=0.0] (Act=8.4)
 Aligning File: mfc/dimas/r48.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END APA SYARAT WISUDA SENT-END  ==  [364 frames] -56.3110 [Ac=-20497.2 LM=0.0] (Act=7.9)
+SENT-END APA SYARAT WISUDA SENT-END  ==  [364 frames] -58.9950 [Ac=-21474.2 LM=0.0] (Act=8.9)
+Aligning File: mfc/fatan/f01.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [343 frames] -62.0969 [Ac=-21299.2 LM=0.0] (Act=8.3)
+Aligning File: mfc/fatan/f02.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [336 frames] -62.3758 [Ac=-20958.3 LM=0.0] (Act=8.3)
+Aligning File: mfc/fatan/f03.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN JADWAL SEMINAR SENT-END  ==  [318 frames] -62.3525 [Ac=-19828.1 LM=0.0] (Act=8.6)
+Aligning File: mfc/fatan/f04.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [282 frames] -64.3480 [Ac=-18146.1 LM=0.0] (Act=8.7)
+Aligning File: mfc/fatan/f05.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [275 frames] -65.6005 [Ac=-18040.1 LM=0.0] (Act=8.4)
+Aligning File: mfc/fatan/f06.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN JADWAL WISUDA SENT-END  ==  [293 frames] -63.5144 [Ac=-18609.7 LM=0.0] (Act=8.5)
+Aligning File: mfc/fatan/f07.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [268 frames] -65.3279 [Ac=-17507.9 LM=0.0] (Act=8.4)
+Aligning File: mfc/fatan/f08.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [307 frames] -60.5680 [Ac=-18594.4 LM=0.0] (Act=7.9)
+Aligning File: mfc/fatan/f09.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN UJIAN ALPRO SENT-END  ==  [302 frames] -63.0475 [Ac=-19040.3 LM=0.0] (Act=7.6)
+Aligning File: mfc/fatan/f10.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [301 frames] -66.6078 [Ac=-20048.9 LM=0.0] (Act=7.6)
+Aligning File: mfc/fatan/f11.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [332 frames] -65.0531 [Ac=-21597.6 LM=0.0] (Act=8.6)
+Aligning File: mfc/fatan/f12.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END KAPAN UJIAN ARSIKOM SENT-END  ==  [342 frames] -65.5953 [Ac=-22433.6 LM=0.0] (Act=8.7)
+Aligning File: mfc/fatan/f13.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [337 frames] -61.3499 [Ac=-20674.9 LM=0.0] (Act=7.6)
+Aligning File: mfc/fatan/f14.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [325 frames] -63.2034 [Ac=-20541.1 LM=0.0] (Act=7.6)
+Aligning File: mfc/fatan/f15.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA RUANG KAPRODI SENT-END  ==  [330 frames] -61.7655 [Ac=-20382.6 LM=0.0] (Act=7.5)
+Aligning File: mfc/fatan/f16.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA RUANG DEKAN SENT-END  ==  [261 frames] -65.0648 [Ac=-16981.9 LM=0.0] (Act=9.7)
+Aligning File: mfc/fatan/f17.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA RUANG DEKAN SENT-END  ==  [304 frames] -63.7327 [Ac=-19374.7 LM=0.0] (Act=8.8)
+Aligning File: mfc/fatan/f18.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA RUANG DEKAN SENT-END  ==  [300 frames] -63.3160 [Ac=-18994.8 LM=0.0] (Act=8.7)
+Aligning File: mfc/fatan/f19.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA LAB GAIB SENT-END  ==  [274 frames] -62.0652 [Ac=-17005.9 LM=0.0] (Act=7.3)
+Aligning File: mfc/fatan/f20.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA LAB GAIB SENT-END  ==  [282 frames] -61.7019 [Ac=-17399.9 LM=0.0] (Act=7.0)
+Aligning File: mfc/fatan/f21.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA LAB GAIB SENT-END  ==  [288 frames] -62.7505 [Ac=-18072.1 LM=0.0] (Act=7.5)
+Aligning File: mfc/fatan/f22.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA LAB SISTER SENT-END  ==  [291 frames] -62.5220 [Ac=-18193.9 LM=0.0] (Act=7.0)
+Aligning File: mfc/fatan/f23.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA LAB SISTER SENT-END  ==  [325 frames] -62.4577 [Ac=-20298.7 LM=0.0] (Act=7.0)
+Aligning File: mfc/fatan/f24.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DIMANA LAB SISTER SENT-END  ==  [336 frames] -62.3559 [Ac=-20951.6 LM=0.0] (Act=6.7)
+Aligning File: mfc/fatan/f25.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [282 frames] -64.7243 [Ac=-18252.2 LM=0.0] (Act=6.6)
+Aligning File: mfc/fatan/f26.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [293 frames] -62.0562 [Ac=-18182.5 LM=0.0] (Act=6.6)
+Aligning File: mfc/fatan/f27.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA DOSEN ALPRO SENT-END  ==  [300 frames] -63.8593 [Ac=-19157.8 LM=0.0] (Act=6.6)
+Aligning File: mfc/fatan/f28.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [282 frames] -66.8400 [Ac=-18848.9 LM=0.0] (Act=6.5)
+Aligning File: mfc/fatan/f29.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [316 frames] -64.0526 [Ac=-20240.6 LM=0.0] (Act=6.4)
+Aligning File: mfc/fatan/f30.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA DOSEN ARSIKOM SENT-END  ==  [279 frames] -66.6863 [Ac=-18605.5 LM=0.0] (Act=6.5)
+Aligning File: mfc/fatan/f31.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [331 frames] -68.8806 [Ac=-22799.5 LM=0.0] (Act=6.7)
+Aligning File: mfc/fatan/f32.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [323 frames] -69.6486 [Ac=-22496.5 LM=0.0] (Act=7.2)
+Aligning File: mfc/fatan/f33.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA KAPRODI INFORMATIKA SENT-END  ==  [313 frames] -70.5660 [Ac=-22087.2 LM=0.0] (Act=7.2)
+Aligning File: mfc/fatan/f34.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [294 frames] -67.3980 [Ac=-19815.0 LM=0.0] (Act=6.9)
+Aligning File: mfc/fatan/f35.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [321 frames] -68.9166 [Ac=-22122.2 LM=0.0] (Act=7.1)
+Aligning File: mfc/fatan/f36.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END SIAPA KAPRODI ELEKTRO SENT-END  ==  [284 frames] -68.5480 [Ac=-19467.6 LM=0.0] (Act=6.9)
+Aligning File: mfc/fatan/f37.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA EMAIL KAPRODI SENT-END  ==  [267 frames] -65.6255 [Ac=-17522.0 LM=0.0] (Act=8.0)
+Aligning File: mfc/fatan/f38.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA EMAIL KAPRODI SENT-END  ==  [289 frames] -64.2046 [Ac=-18555.1 LM=0.0] (Act=7.9)
+Aligning File: mfc/fatan/f39.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA EMAIL KAPRODI SENT-END  ==  [264 frames] -65.4031 [Ac=-17266.4 LM=0.0] (Act=7.5)
+Aligning File: mfc/fatan/f40.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA EMAIL DEKAN SENT-END  ==  [251 frames] -65.0084 [Ac=-16317.1 LM=0.0] (Act=9.2)
+Aligning File: mfc/fatan/f41.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA EMAIL DEKAN SENT-END  ==  [263 frames] -64.0655 [Ac=-16849.2 LM=0.0] (Act=9.0)
+Aligning File: mfc/fatan/f42.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA EMAIL DEKAN SENT-END  ==  [316 frames] -60.8180 [Ac=-19218.5 LM=0.0] (Act=8.5)
+Aligning File: mfc/fatan/f43.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA SYARAT SEMINAR SENT-END  ==  [246 frames] -66.0897 [Ac=-16258.1 LM=0.0] (Act=8.0)
+Aligning File: mfc/fatan/f44.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA SYARAT SEMINAR SENT-END  ==  [274 frames] -66.3299 [Ac=-18174.4 LM=0.0] (Act=7.9)
+Aligning File: mfc/fatan/f45.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA SYARAT SEMINAR SENT-END  ==  [295 frames] -62.9769 [Ac=-18578.2 LM=0.0] (Act=7.9)
+Aligning File: mfc/fatan/f46.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA SYARAT WISUDA SENT-END  ==  [293 frames] -64.6322 [Ac=-18937.2 LM=0.0] (Act=7.9)
+Aligning File: mfc/fatan/f47.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA SYARAT WISUDA SENT-END  ==  [288 frames] -64.1229 [Ac=-18467.4 LM=0.0] (Act=7.8)
+Aligning File: mfc/fatan/f48.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END APA SYARAT WISUDA SENT-END  ==  [292 frames] -63.5906 [Ac=-18568.4 LM=0.0] (Act=8.0)
 
 HTK Configuration Parameters[10]
   Module/Tool     Parameter                  Value
