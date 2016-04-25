@@ -1,0 +1,8 @@
+$kegiatan = SEMINAR | WISUDA;
+$kuliah = ALPRO | ARSIKOM;
+$peran = KAPRODI | DEKAN;
+$kapan = JADWAL $kegiatan | UJIAN $kuliah;
+$dimana = RUANG $peran | LAB ( GAIB | SISTER );
+$siapa = DOSEN $kuliah | KAPRODI ( INFORMATIKA | ELEKTRO );
+$apa = EMAIL $peran | SYARAT $kegiatan;
+( SENT-START ( KAPAN $kapan | DIMANA $dimana | SIAPA $siapa | APA $apa ) SENT-END )

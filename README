@@ -1,0 +1,30 @@
+# struktur folder
+
+- wav/
+- mfc/
+- scp/
+- mlf/
+- model/
+    - hmm15/
+    - wdnet
+    - dict
+    - tiedlist
+    - config
+
+# call backend
+
+- save file wav di `wav/XXX.wav`
+
+- create file `scp/wav2scp_XXX.scp` isinya
+
+    wav/XXX.wav    mfc/XXX.mfc
+
+- create file `scp/mfc_XXX.scp` isinya
+
+    mfc/XXX.mfc
+
+- run `HCopy -A -D -T 1 -C model/config -S scp/wav2scp_XXX.scp`
+
+- run `HVite -H model/hmm15/macros -H model/hmm15/hmmdefs -S scp/mfc_XXX.scp -l '*' -i mlf/XXX.mlf -w model/wdnet -p 0.0 -s 5.0 model/dict model/tiedlist`
+
+- baca/parse file `mlf/XXX.mlf`
